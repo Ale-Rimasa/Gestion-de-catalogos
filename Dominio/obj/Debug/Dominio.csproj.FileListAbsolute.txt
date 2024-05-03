@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\TUP\Programacion 3\TP2\CatalogoABM\Dominio\bin\Debug\Dominio.dll
+C:\Users\user\Desktop\TUP\Programacion 3\TP2\CatalogoABM\Dominio\bin\Debug\Dominio.pdb
+C:\Users\user\Desktop\TUP\Programacion 3\TP2\CatalogoABM\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TUP\Programacion 3\TP2\CatalogoABM\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TUP\Programacion 3\TP2\CatalogoABM\Dominio\obj\Debug\Dominio.dll
+C:\Users\user\Desktop\TUP\Programacion 3\TP2\CatalogoABM\Dominio\obj\Debug\Dominio.pdb

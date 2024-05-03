@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\TUP\Programacion 3\TP2\CatalogoABM\Acciones\bin\Debug\Acciones.dll
+C:\Users\user\Desktop\TUP\Programacion 3\TP2\CatalogoABM\Acciones\bin\Debug\Acciones.pdb
+C:\Users\user\Desktop\TUP\Programacion 3\TP2\CatalogoABM\Acciones\bin\Debug\Dominio.dll
+C:\Users\user\Desktop\TUP\Programacion 3\TP2\CatalogoABM\Acciones\bin\Debug\Dominio.pdb
+C:\Users\user\Desktop\TUP\Programacion 3\TP2\CatalogoABM\Acciones\obj\Debug\Acciones.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TUP\Programacion 3\TP2\CatalogoABM\Acciones\obj\Debug\Acciones.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TUP\Programacion 3\TP2\CatalogoABM\Acciones\obj\Debug\Acciones.csproj.Up2Date
+C:\Users\user\Desktop\TUP\Programacion 3\TP2\CatalogoABM\Acciones\obj\Debug\Acciones.dll
+C:\Users\user\Desktop\TUP\Programacion 3\TP2\CatalogoABM\Acciones\obj\Debug\Acciones.pdb
